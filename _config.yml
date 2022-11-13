@@ -5,7 +5,7 @@ description         : >-
                       <b>A Student, Entrepreneur, Blockchain Enthusiast passionate in tech consulting and Web3 market balance</b>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : iXinn/ixinn.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : iXinn/portfolYOU
+remote_theme        : ixinn/portfolYOU
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
