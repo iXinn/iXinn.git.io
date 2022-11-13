@@ -1,0 +1,11 @@
+- name: Photoshop
+  percentage: 85
+  color: info
+
+- name: Adobe Illustrator
+  percentage: 75
+  color: success
+
+- name: Adobe Premiere Pro
+  percentage: 65
+  color: secondary

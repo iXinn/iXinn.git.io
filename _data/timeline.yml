@@ -1,0 +1,25 @@
+- title: Student, UPenn
+  from: 2020
+  to: Present
+  description: <I>Candidate for Bachelor of Science in Engineering (Computer and Information Science)</I><br><I>Candidate for Bachelor of Science in Economics (Statistics and Data Science)</I><br>GPA 3.97 / 4.0 &nbsp;&nbsp;&nbsp;&nbsp; Major GPA 4.0 / 4.0
+
+- title: Teacher, Access Engineering
+  from: 2020
+  to: Present
+  description: Planned lessons on web development and taught 20 high school students about HTML, CSS, and Javascript.
+
+- title: Research Assistant, Penn Undergraduate Research Mentoring Program
+  from: 2021
+  to: 2021
+  description: Built a drone and implemented a SLAM algorithm.<br>Researched object detection algorithms and active visual search problem.
+
+
+- title: Research Assistant at the Knowledge Engineering Group, Tsinghua University
+  from: 2021
+  to: 2021
+  description: Replicated the experiment of AAAI'20 paper (An Attention-based Graph Neural Network for Heterogeneous Structural Learning) on four new datasets.<br>Presented the experiment results in a paper published in ACM SIGKDD Conference.
+
+- title: Student, Ridley College
+  from: 2017
+  to: 2020
+  description: <I>International Baccalaureate Diploma</I><br>GPA 4.0 / 4.0<br>Student with Best Academic Performance (2018-2020)
