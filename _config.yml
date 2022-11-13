@@ -1,11 +1,11 @@
 ### Site Settings ###
-title               : Siming He
+title               : Tianyao(Titan) Li
 description         : >-
-                      <h1>Siming He</h1>
+                      <h1>Titan Li</h1>
                       <b>A Student, Researcher, Innovator at Penn, involving in robotics and machine learning research, and being passionate about expanding positive social impact of cutting-edge technology.</b>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : Siming-He/siming-he.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : Siming-He/portfolYOU
+repository          : iXinn/ixinn.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : iXinn/portfolYOU
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -22,17 +22,17 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Siming He
-  image             : https://raw.githubusercontent.com/Siming-He/siming-he.github.io/master/assets/img/header.JPG
+  name              : Tianyao Li
+  image             : https://raw.githubusercontent.com/iXinn/ixinn.github.io/master/assets/img/header.JPG
 #  behance           : your_username
 # dribbble          : your_username
-  email             : siminghe@seas.upenn.edu
+  email             : tli656@uwo.ca
 # facebook          : your_username
-  github            : Siming-He
+  github            : iXinn
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : siming-he
+  linkedin          : titan-li
 # medium            : siminghe2020
 # soundcloud        : your_username
 # spotify           : your_username
