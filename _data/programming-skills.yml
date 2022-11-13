@@ -1,11 +1,19 @@
-- name: Machine Learning with Python
+- name: Java
   percentage: 90
   color: danger
-
-- name: C++/JAVA/Ruby on Rails
+  
+- name: Python
   percentage: 80
-  color: 
+  color: danger
 
-- name: HTML5/CSS3/JS
+- name: SQL
   percentage: 70
+  color: danger
+  
+- name: C/Unix
+  percentage: 60
+  color: secondary
+
+- name: HTML5/CSS3
+  percentage: 60
   color: secondary
