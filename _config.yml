@@ -1,0 +1,101 @@
+### Site Settings ###
+title               : Siming He
+description         : >-
+                      <h1>Siming He</h1>
+                      <b>A Student, Researcher, Innovator at Penn, involving in robotics and machine learning research, and being passionate about expanding positive social impact of cutting-edge technology.</b>
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : Siming-He/siming-he.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : Siming-He/portfolYOU
+open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+### Author Info ###
+author:
+  name              : Siming He
+  image             : https://raw.githubusercontent.com/Siming-He/siming-he.github.io/master/assets/img/header.JPG
+#  behance           : your_username
+# dribbble          : your_username
+  email             : siminghe@seas.upenn.edu
+# facebook          : your_username
+  github            : Siming-He
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : siming-he
+# medium            : siminghe2020
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+#  twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  researches:
+    output: true
+    permalink: /researches/:name
+  projects:
+    output: true
+    permalink: /projects/:name
+
+### Collections ###
+### collections:
+  
+
+### Disqus ###
+disqus:
+  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+  - scope:
+      path: ""
+      type: "researches"
+    values:
+      layout: "page"
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
