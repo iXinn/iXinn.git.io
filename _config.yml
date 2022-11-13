@@ -1,13 +1,12 @@
 ### Site Settings ###
 title               : Titan
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
-open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+                     <h1>Tianyao(Titan) Li</h1>
+                     <b>A Student, Entrepreneur, Blockchain Enthusiast at UWO, involving in Tech Consulting and Computer Vision, passionate about Web3 market trade.</b>
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : iXinn/ixinn.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : iXinn/portfolYOU
+open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
@@ -25,17 +24,17 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : Titan Li
   image             : https://i.imgur.com/uyDNQnn.jpg
   behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : tli656@uwo.ca
   facebook          : your_username
-  github            : your_username
+  github            : iXinn
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : titan-li
   medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
@@ -72,14 +71,6 @@ analytics:
     tracking_id: your-google-tracking-id
 
 
-### Buy me a coffee ###
-# See https://www.buymeacoffee.com/
-buymeacoffee:
-  enabled: false
-  username: your_username
-  color: "#007bff"
-  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
-  description: "Support me on Buy me a coffee!"
 
 
 ### Defaults for collections ###
