@@ -1,11 +1,11 @@
-- name: Photoshop
+- name: Adobe Premiere Pro
+  percentage: 95
+  color: success
+
+- name: Microsoft Excel
   percentage: 85
   color: info
 
-- name: Adobe Illustrator
+- name: Adobe Photoshop 
   percentage: 75
-  color: success
-
-- name: Adobe Premiere Pro
-  percentage: 65
   color: secondary
