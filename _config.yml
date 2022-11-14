@@ -27,7 +27,7 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Titan Li
   image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+# behance           : your_username
 # dribbble          : your_username
   email             : tli656@uwo.ca
   facebook          : your_username
@@ -35,14 +35,14 @@ author:
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : https://www.linkedin.com/in/titan-li-54356320b/
-  medium            : your_username
+  linkedin          : titan-li
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
